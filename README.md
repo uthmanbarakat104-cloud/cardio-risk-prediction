@@ -13,6 +13,8 @@ The workflow of this project includes:
 ## How to Run
 The patient dataset used in this project can be downloaded from Kaggle [here](https://www.kaggle.com/datasets/tarekmuhammed/patients-data-for-medical-field).
 
+Access the full Power BI dashboard for this project [here](https://app.powerbi.com/groups/me/reports/1a4bc782-cd4a-4621-8ec0-5c60087a53bb/9b84340c5b0c5a4320cb?experience=power-bi)
+
 ## Key Features
 - Interactive visualizations of cardiovascular disease prevalence.
 - Predictive model for high-risk patient classification.
